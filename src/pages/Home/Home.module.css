@@ -1,0 +1,12 @@
+.controlRow{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    justify-content: space-between;
+}
+
+.reloadButton{
+    font-size: 20px;
+    cursor: pointer;
+    color: gray;
+}
